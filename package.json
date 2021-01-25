@@ -1,0 +1,28 @@
+{
+  "name": "login-app",
+  "version": "1.0.0",
+  "description": "demo project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "login-app"
+  },
+  "keywords": [
+    "angularjs",
+    "mysql",
+    "login",
+    "app",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Sweta Patel",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
